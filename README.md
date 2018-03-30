@@ -5,3 +5,6 @@ Requirements : MATLAB 2017b or better , Python 2.7 with the necessary packages a
 
 Run the simulation.py file and see the structure in simulation. 
 Change the target positions (Yt) in the Matlab file class_k_prism_reducedorder.m
+
+
+You can watch a video of the simulation here : https://www.youtube.com/watch?v=rDFUHZ-nkqs
